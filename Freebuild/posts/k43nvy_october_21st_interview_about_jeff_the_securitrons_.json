@@ -1,0 +1,230 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Freebuild",
+                        "selftext": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "October 21st interview about Jeff the Securitron's disappearance [DECLASSIFIED]",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Freebuild",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": null,
+                        "downs": 0,
+                        "thumbnail_height": 140,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "name": "t3_k43nvy",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 1.0,
+                        "author_flair_background_color": "",
+                        "subreddit_type": "public",
+                        "ups": 2,
+                        "total_awards_received": 0,
+                        "media_embed": {
+                            "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2FVS4GdVD%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D900&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2FVS4GdVD&amp;image=https%3A%2F%2Fi.imgur.com%2FRunO6Xv.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"889\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                            "width": 600,
+                            "scrolling": false,
+                            "height": 889
+                        },
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": null,
+                        "is_original_content": false,
+                        "author_fullname": "t2_hsaxm",
+                        "secure_media": {
+                            "oembed": {
+                                "provider_url": "http://imgur.com",
+                                "description": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
+                                "title": "Declassified Interview with the Multiversal CEO regarding Jeff the Securitron (October 21, 2019)",
+                                "url": "https://imgur.com/a/VS4GdVD",
+                                "thumbnail_width": 600,
+                                "height": 889,
+                                "width": 600,
+                                "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2FVS4GdVD%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D900&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2FVS4GdVD&amp;image=https%3A%2F%2Fi.imgur.com%2FRunO6Xv.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"889\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                                "version": "1.0",
+                                "provider_name": "Imgur",
+                                "thumbnail_url": "https://i.imgur.com/RunO6Xv.jpg?fb",
+                                "type": "rich",
+                                "thumbnail_height": 315
+                            },
+                            "type": "imgur.com"
+                        },
+                        "is_reddit_media_domain": false,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {
+                            "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2FVS4GdVD%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D900&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2FVS4GdVD&amp;image=https%3A%2F%2Fi.imgur.com%2FRunO6Xv.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"889\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                            "width": 600,
+                            "scrolling": false,
+                            "media_domain_url": "https://www.redditmedia.com/mediaembed/k43nvy",
+                            "height": 889
+                        },
+                        "link_flair_text": null,
+                        "can_mod_post": false,
+                        "score": 2,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "author_premium": false,
+                        "thumbnail": "https://b.thumbs.redditmedia.com/TTlllLu2Ff64q9V-tphxITHuLwO1sl9z99tpTDyjehc.jpg",
+                        "edited": false,
+                        "author_flair_css_class": null,
+                        "author_flair_richtext": [],
+                        "gildings": {},
+                        "post_hint": "link",
+                        "content_categories": null,
+                        "is_self": false,
+                        "mod_note": null,
+                        "created": 1606765966.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "domain": "imgur.com",
+                        "allow_live_comments": false,
+                        "selftext_html": null,
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "url_overridden_by_dest": "https://imgur.com/a/VS4GdVD",
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": false,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "preview": {
+                            "images": [
+                                {
+                                    "source": {
+                                        "url": "https://external-preview.redd.it/TT6MqCyTIcNyUoqoDhRsm4O3sRw5Ig0vnsSzCDgHpCI.jpg?auto=webp&amp;s=bb623020de300c1d7e373ab119e55c95ad5ec74c",
+                                        "width": 1656,
+                                        "height": 2342
+                                    },
+                                    "resolutions": [
+                                        {
+                                            "url": "https://external-preview.redd.it/TT6MqCyTIcNyUoqoDhRsm4O3sRw5Ig0vnsSzCDgHpCI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=460e7d6aa4656d0940339d443cd235634c67a988",
+                                            "width": 108,
+                                            "height": 152
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/TT6MqCyTIcNyUoqoDhRsm4O3sRw5Ig0vnsSzCDgHpCI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=67398846ecab7366306244a787d21dd6264c04b7",
+                                            "width": 216,
+                                            "height": 305
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/TT6MqCyTIcNyUoqoDhRsm4O3sRw5Ig0vnsSzCDgHpCI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d06add746657ca3ce6efa51ee702ca31ad253925",
+                                            "width": 320,
+                                            "height": 452
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/TT6MqCyTIcNyUoqoDhRsm4O3sRw5Ig0vnsSzCDgHpCI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e677fcceea00829042ed4081a1edac05b19cb67",
+                                            "width": 640,
+                                            "height": 905
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/TT6MqCyTIcNyUoqoDhRsm4O3sRw5Ig0vnsSzCDgHpCI.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=9f1d8e944c8a940fdeabfb03ad614721cd62090b",
+                                            "width": 960,
+                                            "height": 1357
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/TT6MqCyTIcNyUoqoDhRsm4O3sRw5Ig0vnsSzCDgHpCI.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8475eb695a2ee17fc20db34f863152c30ce768ed",
+                                            "width": 1080,
+                                            "height": 1527
+                                        }
+                                    ],
+                                    "variants": {},
+                                    "id": "g-LVbzx8ZmFbgwPfTofRhpytk_U5Ghy5xnjOuW3cRbc"
+                                }
+                            ],
+                            "enabled": false
+                        },
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "can_gild": false,
+                        "spoiler": false,
+                        "locked": false,
+                        "author_flair_text": "T.B.C",
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3bg30",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "k43nvy",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "Zoocanadanda",
+                        "discussion_type": null,
+                        "num_comments": 0,
+                        "send_replies": true,
+                        "media": {
+                            "oembed": {
+                                "provider_url": "http://imgur.com",
+                                "description": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
+                                "title": "Declassified Interview with the Multiversal CEO regarding Jeff the Securitron (October 21, 2019)",
+                                "url": "https://imgur.com/a/VS4GdVD",
+                                "thumbnail_width": 600,
+                                "height": 889,
+                                "width": 600,
+                                "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2FVS4GdVD%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D900&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2FVS4GdVD&amp;image=https%3A%2F%2Fi.imgur.com%2FRunO6Xv.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"889\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                                "version": "1.0",
+                                "provider_name": "Imgur",
+                                "thumbnail_url": "https://i.imgur.com/RunO6Xv.jpg?fb",
+                                "type": "rich",
+                                "thumbnail_height": 315
+                            },
+                            "type": "imgur.com"
+                        },
+                        "contest_mode": false,
+                        "author_patreon_flair": false,
+                        "author_flair_text_color": "dark",
+                        "permalink": "/r/Freebuild/comments/k43nvy/october_21st_interview_about_jeff_the_securitrons/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "https://imgur.com/a/VS4GdVD",
+                        "subreddit_subscribers": 219,
+                        "created_utc": 1606765966.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [],
+            "before": null
+        }
+    }
+]

@@ -1,0 +1,294 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Freebuild",
+                        "selftext": "Hello, I'm sure you know exactly why I'm here. That being, we need variation on the default colors. \n\nHere are a few propositions I feel are pretty fair: \n\n# PROPOSITION A - The Warmer side of the spectrum. \n\nThe idea here is that Fredditors get to pick which slight variation on Orange they use for their role color. The first one being more red-orange, the second being the default orange, and the third being a yellow-orange. All three of these colors were made by simply adjusting the hue a few pixels to the left or right, there was no brightness or saturation added. \n\n[Fredditor Red, Fredditor Orange, and Fredditor Yellow](https://preview.redd.it/m1mgkemq6o161.png?width=319&amp;format=png&amp;auto=webp&amp;s=dbaf36a908b42bab546676cb59ee73d3155237c3)\n\nNow, this next part is entirely up to Staff, however in my opinion, since regulars would be using warmer colors, staff should use colder colors. Meaning, Admin should probably be a bit more pink/purple. Again, the pinker admin is just a thought, but I personally think it'd make sense. \n\n# PROPOSITION B - Classification of Faggotry \n\nI'm sure you remember the original green that this server used for the main role colors before we switched to orange, right? Well, the idea here is to bring back that color as a default color option. \n\n[Newfag Orange and Oldfag Green](https://preview.redd.it/3etl403u7o161.png?width=354&amp;format=png&amp;auto=webp&amp;s=831f348a568299189416cb6a9d17d7e747f19c3c)\n\nThis one doesn't need much more explanation, it's pretty self explanatory. \n\n# PROPOSITION C - Triadic \n\nThis idea is more to build off of the classification of faggotry idea. We'd keep the original orange and green, however to keep in line with a triadic color wheel, we'd add a purple into the mix. \n\n[Oldfag Green, Midfag Purple, and Newfag Orange](https://preview.redd.it/xjbxqf2a8o161.png?width=375&amp;format=png&amp;auto=webp&amp;s=be2e19190c86c5000538b83a776271d402b50ef7)\n\nAgain, pretty self explanatory. The purple chosen here was one of the default color discord provides when you make a role. \n\n&amp;#x200B;\n\nNow, as for what we'd do with Piss Yellow, that's up for staff to decide. Whether they want to repurpose it for one of these ideas or keep it around and give it to people as a joke. \n\nI'd also like to suggest getting a proper role bot so that people can give themselves the colors they want without having to ping staff every single time they want a switch. \n\nAs you all know I'm very passionate about letting people express themselves and letting them talk in whatever color they so choose. I'm passionate about color and roles in general. I think they're a big part of what makes a server great. Most, if not all of the servers I'm in that are close to the size of Freddit let users pick their own colors. Hell the actual FNAF Discord server has like 20 different colors you can pick from. I haven't counted but, it's a lot, and that server is fucking massive! \n\nNow, I get that you don't want the chat to turn into a rainbow. That's understandable, 2016 flashbacks and all. So I've given you three options to pick from. Now, of course you can come up with your own ideas and even make variations on these, but please for the love of god, I'm tired of looking at the same old Piss Yellow, Dull Orange, and occasional vibrant staff role.",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "We need default color variation on the current roles.",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Freebuild",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": null,
+                        "downs": 0,
+                        "thumbnail_height": 84,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "media_metadata": {
+                            "m1mgkemq6o161": {
+                                "status": "valid",
+                                "e": "Image",
+                                "m": "image/png",
+                                "p": [
+                                    {
+                                        "y": 65,
+                                        "x": 108,
+                                        "u": "https://preview.redd.it/m1mgkemq6o161.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a318633ad9ec2f9cb3d8680c84d34cb7faa58792"
+                                    },
+                                    {
+                                        "y": 130,
+                                        "x": 216,
+                                        "u": "https://preview.redd.it/m1mgkemq6o161.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=68facc7f44b515294ef7ac17b035ab49326de70a"
+                                    }
+                                ],
+                                "s": {
+                                    "y": 192,
+                                    "x": 319,
+                                    "u": "https://preview.redd.it/m1mgkemq6o161.png?width=319&amp;format=png&amp;auto=webp&amp;s=dbaf36a908b42bab546676cb59ee73d3155237c3"
+                                },
+                                "id": "m1mgkemq6o161"
+                            },
+                            "3etl403u7o161": {
+                                "status": "valid",
+                                "e": "Image",
+                                "m": "image/png",
+                                "p": [
+                                    {
+                                        "y": 48,
+                                        "x": 108,
+                                        "u": "https://preview.redd.it/3etl403u7o161.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b43783f20a7259f8af4a6934a8d5857710855d19"
+                                    },
+                                    {
+                                        "y": 96,
+                                        "x": 216,
+                                        "u": "https://preview.redd.it/3etl403u7o161.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=9c4158ca7794b21eaec07015177e76467f116511"
+                                    },
+                                    {
+                                        "y": 142,
+                                        "x": 320,
+                                        "u": "https://preview.redd.it/3etl403u7o161.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=29dbcd718c271df65c2449733d0e046943054636"
+                                    }
+                                ],
+                                "s": {
+                                    "y": 158,
+                                    "x": 354,
+                                    "u": "https://preview.redd.it/3etl403u7o161.png?width=354&amp;format=png&amp;auto=webp&amp;s=831f348a568299189416cb6a9d17d7e747f19c3c"
+                                },
+                                "id": "3etl403u7o161"
+                            },
+                            "xjbxqf2a8o161": {
+                                "status": "valid",
+                                "e": "Image",
+                                "m": "image/png",
+                                "p": [
+                                    {
+                                        "y": 59,
+                                        "x": 108,
+                                        "u": "https://preview.redd.it/xjbxqf2a8o161.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=c19b9a15f04562bfbe3e3a0f20c41858ff1996b3"
+                                    },
+                                    {
+                                        "y": 119,
+                                        "x": 216,
+                                        "u": "https://preview.redd.it/xjbxqf2a8o161.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=06197fd8d7fe1ead20d2fcae799a6f4bafbbbfc4"
+                                    },
+                                    {
+                                        "y": 176,
+                                        "x": 320,
+                                        "u": "https://preview.redd.it/xjbxqf2a8o161.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e22d31a25947514535782d5a454d5ad037a80ab2"
+                                    }
+                                ],
+                                "s": {
+                                    "y": 207,
+                                    "x": 375,
+                                    "u": "https://preview.redd.it/xjbxqf2a8o161.png?width=375&amp;format=png&amp;auto=webp&amp;s=be2e19190c86c5000538b83a776271d402b50ef7"
+                                },
+                                "id": "xjbxqf2a8o161"
+                            }
+                        },
+                        "name": "t3_k1q8mv",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 0.75,
+                        "author_flair_background_color": "",
+                        "subreddit_type": "public",
+                        "ups": 2,
+                        "total_awards_received": 0,
+                        "media_embed": {},
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": null,
+                        "is_original_content": false,
+                        "author_fullname": "t2_16p6hj",
+                        "secure_media": null,
+                        "is_reddit_media_domain": false,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {},
+                        "link_flair_text": null,
+                        "can_mod_post": false,
+                        "score": 2,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "author_premium": false,
+                        "thumbnail": "https://b.thumbs.redditmedia.com/lK3pS705JHiif9lwi2wcpoFvYvKkomuE8A72qjodhYI.jpg",
+                        "edited": false,
+                        "author_flair_css_class": null,
+                        "author_flair_richtext": [],
+                        "gildings": {},
+                        "content_categories": null,
+                        "is_self": true,
+                        "mod_note": null,
+                        "created": 1606434744.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "domain": "self.Freebuild",
+                        "allow_live_comments": false,
+                        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello, I&amp;#39;m sure you know exactly why I&amp;#39;m here. That being, we need variation on the default colors. &lt;/p&gt;\n\n&lt;p&gt;Here are a few propositions I feel are pretty fair: &lt;/p&gt;\n\n&lt;h1&gt;PROPOSITION A - The Warmer side of the spectrum.&lt;/h1&gt;\n\n&lt;p&gt;The idea here is that Fredditors get to pick which slight variation on Orange they use for their role color. The first one being more red-orange, the second being the default orange, and the third being a yellow-orange. All three of these colors were made by simply adjusting the hue a few pixels to the left or right, there was no brightness or saturation added. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/m1mgkemq6o161.png?width=319&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=dbaf36a908b42bab546676cb59ee73d3155237c3\"&gt;Fredditor Red, Fredditor Orange, and Fredditor Yellow&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Now, this next part is entirely up to Staff, however in my opinion, since regulars would be using warmer colors, staff should use colder colors. Meaning, Admin should probably be a bit more pink/purple. Again, the pinker admin is just a thought, but I personally think it&amp;#39;d make sense. &lt;/p&gt;\n\n&lt;h1&gt;PROPOSITION B - Classification of Faggotry&lt;/h1&gt;\n\n&lt;p&gt;I&amp;#39;m sure you remember the original green that this server used for the main role colors before we switched to orange, right? Well, the idea here is to bring back that color as a default color option. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/3etl403u7o161.png?width=354&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=831f348a568299189416cb6a9d17d7e747f19c3c\"&gt;Newfag Orange and Oldfag Green&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;This one doesn&amp;#39;t need much more explanation, it&amp;#39;s pretty self explanatory. &lt;/p&gt;\n\n&lt;h1&gt;PROPOSITION C - Triadic&lt;/h1&gt;\n\n&lt;p&gt;This idea is more to build off of the classification of faggotry idea. We&amp;#39;d keep the original orange and green, however to keep in line with a triadic color wheel, we&amp;#39;d add a purple into the mix. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/xjbxqf2a8o161.png?width=375&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=be2e19190c86c5000538b83a776271d402b50ef7\"&gt;Oldfag Green, Midfag Purple, and Newfag Orange&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Again, pretty self explanatory. The purple chosen here was one of the default color discord provides when you make a role. &lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;Now, as for what we&amp;#39;d do with Piss Yellow, that&amp;#39;s up for staff to decide. Whether they want to repurpose it for one of these ideas or keep it around and give it to people as a joke. &lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;d also like to suggest getting a proper role bot so that people can give themselves the colors they want without having to ping staff every single time they want a switch. &lt;/p&gt;\n\n&lt;p&gt;As you all know I&amp;#39;m very passionate about letting people express themselves and letting them talk in whatever color they so choose. I&amp;#39;m passionate about color and roles in general. I think they&amp;#39;re a big part of what makes a server great. Most, if not all of the servers I&amp;#39;m in that are close to the size of Freddit let users pick their own colors. Hell the actual FNAF Discord server has like 20 different colors you can pick from. I haven&amp;#39;t counted but, it&amp;#39;s a lot, and that server is fucking massive! &lt;/p&gt;\n\n&lt;p&gt;Now, I get that you don&amp;#39;t want the chat to turn into a rainbow. That&amp;#39;s understandable, 2016 flashbacks and all. So I&amp;#39;ve given you three options to pick from. Now, of course you can come up with your own ideas and even make variations on these, but please for the love of god, I&amp;#39;m tired of looking at the same old Piss Yellow, Dull Orange, and occasional vibrant staff role.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": true,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "can_gild": false,
+                        "spoiler": false,
+                        "locked": false,
+                        "author_flair_text": "DIAMONDLORE REFERENCE",
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3bg30",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "k1q8mv",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "AdvFaz24",
+                        "discussion_type": null,
+                        "num_comments": 1,
+                        "send_replies": true,
+                        "media": null,
+                        "contest_mode": false,
+                        "author_patreon_flair": false,
+                        "author_flair_text_color": "dark",
+                        "permalink": "/r/Freebuild/comments/k1q8mv/we_need_default_color_variation_on_the_current/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "https://old.reddit.com/r/Freebuild/comments/k1q8mv/we_need_default_color_variation_on_the_current/",
+                        "subreddit_subscribers": 219,
+                        "created_utc": 1606434744.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t1",
+                    "data": {
+                        "subreddit_id": "t5_3bg30",
+                        "approved_at_utc": null,
+                        "author_is_blocked": false,
+                        "comment_type": null,
+                        "awarders": [],
+                        "mod_reason_by": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "total_awards_received": 0,
+                        "subreddit": "Freebuild",
+                        "author_flair_template_id": "1d09b8e0-e572-11e6-8bc1-0eee6de7faf4",
+                        "likes": null,
+                        "replies": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "id": "gdpu97m",
+                        "banned_at_utc": null,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "archived": false,
+                        "collapsed_reason_code": null,
+                        "no_follow": true,
+                        "author": "ScoopSpurr",
+                        "can_mod_post": false,
+                        "created_utc": 1606436073.0,
+                        "send_replies": true,
+                        "parent_id": "t3_k1q8mv",
+                        "score": 2,
+                        "author_fullname": "t2_r2cnl4u",
+                        "approved_by": null,
+                        "mod_note": null,
+                        "all_awardings": [],
+                        "collapsed": false,
+                        "body": "IMO Prop A or even just Freddittor Red would be the best.",
+                        "edited": false,
+                        "top_awarded_type": null,
+                        "author_flair_css_class": null,
+                        "name": "t1_gdpu97m",
+                        "is_submitter": false,
+                        "downs": 0,
+                        "author_flair_richtext": [],
+                        "author_patreon_flair": false,
+                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;IMO Prop A or even just Freddittor Red would be the best.&lt;/p&gt;\n&lt;/div&gt;",
+                        "removal_reason": null,
+                        "collapsed_reason": null,
+                        "distinguished": null,
+                        "associated_award": null,
+                        "stickied": false,
+                        "author_premium": false,
+                        "can_gild": false,
+                        "gildings": {},
+                        "unrepliable_reason": null,
+                        "author_flair_text_color": "dark",
+                        "score_hidden": false,
+                        "permalink": "/r/Freebuild/comments/k1q8mv/we_need_default_color_variation_on_the_current/gdpu97m/",
+                        "subreddit_type": "public",
+                        "locked": false,
+                        "report_reasons": null,
+                        "created": 1606436073.0,
+                        "author_flair_text": "SALT",
+                        "treatment_tags": [],
+                        "link_id": "t3_k1q8mv",
+                        "subreddit_name_prefixed": "r/Freebuild",
+                        "controversiality": 0,
+                        "depth": 0,
+                        "author_flair_background_color": null,
+                        "collapsed_because_crowd_control": null,
+                        "mod_reports": [],
+                        "num_reports": null,
+                        "ups": 2
+                    }
+                }
+            ],
+            "before": null
+        }
+    }
+]

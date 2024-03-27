@@ -1,0 +1,185 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Freebuild",
+                        "selftext": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "OWNER ELECTION JANUARY 2018 (you can vote for no new owner)",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Freebuild",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": null,
+                        "downs": 0,
+                        "thumbnail_height": 73,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "name": "t3_7qd86q",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 1.0,
+                        "author_flair_background_color": "",
+                        "subreddit_type": "public",
+                        "ups": 1,
+                        "total_awards_received": 0,
+                        "media_embed": {},
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": null,
+                        "is_original_content": false,
+                        "author_fullname": "t2_hsaxm",
+                        "secure_media": null,
+                        "is_reddit_media_domain": false,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {},
+                        "link_flair_text": null,
+                        "can_mod_post": false,
+                        "score": 1,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "author_premium": false,
+                        "thumbnail": "https://a.thumbs.redditmedia.com/Fd20TMlG7GVK5flJcK1BwO9bQpZvCQyqCM0LVnX2MT4.jpg",
+                        "edited": false,
+                        "author_flair_css_class": null,
+                        "author_flair_richtext": [],
+                        "gildings": {},
+                        "post_hint": "link",
+                        "content_categories": null,
+                        "is_self": false,
+                        "mod_note": null,
+                        "created": 1515951429.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "domain": "goo.gl",
+                        "allow_live_comments": false,
+                        "selftext_html": null,
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "url_overridden_by_dest": "https://goo.gl/forms/t5rvPIIsT6RVQMbB3",
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": true,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "preview": {
+                            "images": [
+                                {
+                                    "source": {
+                                        "url": "https://external-preview.redd.it/HGwmDp_7nKlyRSK30l5V_iFSZtJ6ZM8Rsb1JcsmxmTc.jpg?auto=webp&amp;s=03bd7d21b27f89d302a6c97b4731822915c08708",
+                                        "width": 1200,
+                                        "height": 630
+                                    },
+                                    "resolutions": [
+                                        {
+                                            "url": "https://external-preview.redd.it/HGwmDp_7nKlyRSK30l5V_iFSZtJ6ZM8Rsb1JcsmxmTc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=7b3875b5f12075c60810cd589293ff93b47c9332",
+                                            "width": 108,
+                                            "height": 56
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/HGwmDp_7nKlyRSK30l5V_iFSZtJ6ZM8Rsb1JcsmxmTc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=71cbf04307695d631cde227b8a56aeccec07d3a3",
+                                            "width": 216,
+                                            "height": 113
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/HGwmDp_7nKlyRSK30l5V_iFSZtJ6ZM8Rsb1JcsmxmTc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=515b8456a47a3637c965a199b1c333aebf05766e",
+                                            "width": 320,
+                                            "height": 168
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/HGwmDp_7nKlyRSK30l5V_iFSZtJ6ZM8Rsb1JcsmxmTc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=034bf88aa9ac1bd5a532fc21510cd32223f39ad7",
+                                            "width": 640,
+                                            "height": 336
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/HGwmDp_7nKlyRSK30l5V_iFSZtJ6ZM8Rsb1JcsmxmTc.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=9b183bd917c125700963e148e4ff17760abfca6e",
+                                            "width": 960,
+                                            "height": 504
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/HGwmDp_7nKlyRSK30l5V_iFSZtJ6ZM8Rsb1JcsmxmTc.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=c1ce6f1765b972af91e37bfb6667cc04cd51ff4d",
+                                            "width": 1080,
+                                            "height": 567
+                                        }
+                                    ],
+                                    "variants": {},
+                                    "id": "oCOS8C4jsQh-1DIYo__jku10H9iOyH200pEfOBN7I-4"
+                                }
+                            ],
+                            "enabled": false
+                        },
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "can_gild": false,
+                        "spoiler": false,
+                        "locked": false,
+                        "author_flair_text": "T.B.C",
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3bg30",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "7qd86q",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "Zoocanadanda",
+                        "discussion_type": null,
+                        "num_comments": 0,
+                        "send_replies": true,
+                        "media": null,
+                        "contest_mode": false,
+                        "author_patreon_flair": false,
+                        "author_flair_text_color": "dark",
+                        "permalink": "/r/Freebuild/comments/7qd86q/owner_election_january_2018_you_can_vote_for_no/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "https://goo.gl/forms/t5rvPIIsT6RVQMbB3",
+                        "subreddit_subscribers": 219,
+                        "created_utc": 1515951429.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [],
+            "before": null
+        }
+    }
+]

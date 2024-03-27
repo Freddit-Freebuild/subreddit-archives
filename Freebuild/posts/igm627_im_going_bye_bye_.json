@@ -1,0 +1,192 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Freebuild",
+                        "selftext": "i dont like fredit anymore hahahah\n\n[woody is freddit and i am andy](https://preview.redd.it/azu6eo1w08j51.jpg?width=1484&amp;format=pjpg&amp;auto=webp&amp;s=1abc9e53df7658a598fcc86e1e0964875886db8f)\n\n[me removing freddit from server lists](https://reddit.com/link/igm627/video/jeq7l31z08j51/player)\n\n&amp;#x200B;\n\nBYE BYE FREDDIT",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "im going bye bye",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Freebuild",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": null,
+                        "downs": 0,
+                        "thumbnail_height": 94,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "media_metadata": {
+                            "azu6eo1w08j51": {
+                                "status": "valid",
+                                "e": "Image",
+                                "m": "image/jpg",
+                                "p": [
+                                    {
+                                        "y": 73,
+                                        "x": 108,
+                                        "u": "https://preview.redd.it/azu6eo1w08j51.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a4777791136b99aa7e4f71d39e2e9b44850fc532"
+                                    },
+                                    {
+                                        "y": 146,
+                                        "x": 216,
+                                        "u": "https://preview.redd.it/azu6eo1w08j51.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=13baa15e882ebd0259b69bbcbf66c245ebe83c4c"
+                                    },
+                                    {
+                                        "y": 216,
+                                        "x": 320,
+                                        "u": "https://preview.redd.it/azu6eo1w08j51.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0d9e9918d98b8e809da9687f891ac523fb93a0db"
+                                    },
+                                    {
+                                        "y": 433,
+                                        "x": 640,
+                                        "u": "https://preview.redd.it/azu6eo1w08j51.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bee269bd92c76eb070580f87241087516fcdb8b1"
+                                    },
+                                    {
+                                        "y": 650,
+                                        "x": 960,
+                                        "u": "https://preview.redd.it/azu6eo1w08j51.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=8822cbf5b1472a83903a3ba3bb16f834d119a048"
+                                    },
+                                    {
+                                        "y": 731,
+                                        "x": 1080,
+                                        "u": "https://preview.redd.it/azu6eo1w08j51.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=1a979a70bf704d132b6e431008c7880fed09e28e"
+                                    }
+                                ],
+                                "s": {
+                                    "y": 1005,
+                                    "x": 1484,
+                                    "u": "https://preview.redd.it/azu6eo1w08j51.jpg?width=1484&amp;format=pjpg&amp;auto=webp&amp;s=1abc9e53df7658a598fcc86e1e0964875886db8f"
+                                },
+                                "id": "azu6eo1w08j51"
+                            },
+                            "jeq7l31z08j51": {
+                                "status": "valid",
+                                "e": "RedditVideo",
+                                "dashUrl": "https://v.redd.it/link/igm627/asset/jeq7l31z08j51/DASHPlaylist.mpd?a=1714128733%2CNDM3YWIwMzQ2NzhhYmE1ODU5MDljNzM5Y2E4NzY1YzI0MWFkNzU1ZTdmOGIzMTZhMmU1Njg0NDIyZTRkZmE5Yg%3D%3D&amp;v=1&amp;f=sd",
+                                "x": 1920,
+                                "y": 1080,
+                                "hlsUrl": "https://v.redd.it/link/igm627/asset/jeq7l31z08j51/HLSPlaylist.m3u8?a=1714128733%2CMTllZDg5OGFlNmI2OTQ1NmUwNjQ5OTNhZmJkNjE1MWE3N2VlMjc1NjFhYjIyNzI3N2M5MTQ5YWRkZTJmNWYzYQ%3D%3D&amp;v=1&amp;f=sd",
+                                "id": "jeq7l31z08j51",
+                                "isGif": false
+                            }
+                        },
+                        "name": "t3_igm627",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 1.0,
+                        "author_flair_background_color": null,
+                        "subreddit_type": "public",
+                        "ups": 1,
+                        "total_awards_received": 0,
+                        "media_embed": {},
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": "19abe300-e575-11e6-b441-0ee5464b8f94",
+                        "is_original_content": false,
+                        "author_fullname": "t2_ttykl",
+                        "secure_media": null,
+                        "is_reddit_media_domain": false,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {},
+                        "link_flair_text": null,
+                        "can_mod_post": false,
+                        "score": 1,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "author_premium": false,
+                        "thumbnail": "https://b.thumbs.redditmedia.com/d5YKOXJf9F-0cnzG9e3HN0t1vmcR3uZEPYaMP_DsbVY.jpg",
+                        "edited": false,
+                        "author_flair_css_class": null,
+                        "author_flair_richtext": [],
+                        "gildings": {},
+                        "content_categories": null,
+                        "is_self": true,
+                        "mod_note": null,
+                        "created": 1598392984.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "domain": "self.Freebuild",
+                        "allow_live_comments": false,
+                        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;i dont like fredit anymore hahahah&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/azu6eo1w08j51.jpg?width=1484&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=1abc9e53df7658a598fcc86e1e0964875886db8f\"&gt;woody is freddit and i am andy&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://reddit.com/link/igm627/video/jeq7l31z08j51/player\"&gt;me removing freddit from server lists&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;BYE BYE FREDDIT&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": true,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "can_gild": false,
+                        "spoiler": false,
+                        "locked": false,
+                        "author_flair_text": "CANCER",
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3bg30",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "igm627",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "MonsterDobbsREAL",
+                        "discussion_type": null,
+                        "num_comments": 0,
+                        "send_replies": true,
+                        "media": null,
+                        "contest_mode": false,
+                        "author_patreon_flair": false,
+                        "author_flair_text_color": "dark",
+                        "permalink": "/r/Freebuild/comments/igm627/im_going_bye_bye/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "https://old.reddit.com/r/Freebuild/comments/igm627/im_going_bye_bye/",
+                        "subreddit_subscribers": 219,
+                        "created_utc": 1598392984.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [],
+            "before": null
+        }
+    }
+]

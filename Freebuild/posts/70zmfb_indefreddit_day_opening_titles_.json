@@ -1,0 +1,185 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Freebuild",
+                        "selftext": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "Indefreddit Day - OPENING TITLES",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Freebuild",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": null,
+                        "downs": 0,
+                        "thumbnail_height": 87,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "name": "t3_70zmfb",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 1.0,
+                        "author_flair_background_color": "",
+                        "subreddit_type": "public",
+                        "ups": 2,
+                        "total_awards_received": 0,
+                        "media_embed": {},
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": null,
+                        "is_original_content": false,
+                        "author_fullname": "t2_y6opy",
+                        "secure_media": null,
+                        "is_reddit_media_domain": false,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {},
+                        "link_flair_text": null,
+                        "can_mod_post": false,
+                        "score": 2,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "author_premium": false,
+                        "thumbnail": "https://b.thumbs.redditmedia.com/byXaAnOTxvJZRCQf7lTXxVF4AwmeHagwQ3nrIVPR4uU.jpg",
+                        "edited": false,
+                        "author_flair_css_class": "",
+                        "author_flair_richtext": [],
+                        "gildings": {},
+                        "post_hint": "link",
+                        "content_categories": null,
+                        "is_self": false,
+                        "mod_note": null,
+                        "created": 1505784287.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "domain": "brorlandi.github.io",
+                        "allow_live_comments": false,
+                        "selftext_html": null,
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "url_overridden_by_dest": "https://brorlandi.github.io/StarWarsIntroCreator/#!/AKuMMb2c-TmmJzrsnRMh",
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": false,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "preview": {
+                            "images": [
+                                {
+                                    "source": {
+                                        "url": "https://external-preview.redd.it/tFHvtDqjNK1-sbGAfCHLCGlKRUDwOVFyfNQli-e3-Sk.jpg?auto=webp&amp;s=331e10d4604f52e57011acfaccca0364ec1923b4",
+                                        "width": 1920,
+                                        "height": 1200
+                                    },
+                                    "resolutions": [
+                                        {
+                                            "url": "https://external-preview.redd.it/tFHvtDqjNK1-sbGAfCHLCGlKRUDwOVFyfNQli-e3-Sk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8ccbb3aace8b81b5e1ccd3db610f0caa4b3f538c",
+                                            "width": 108,
+                                            "height": 67
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/tFHvtDqjNK1-sbGAfCHLCGlKRUDwOVFyfNQli-e3-Sk.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d2c2ac1afd6d11fe3f0eae47580a15730aca5623",
+                                            "width": 216,
+                                            "height": 135
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/tFHvtDqjNK1-sbGAfCHLCGlKRUDwOVFyfNQli-e3-Sk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a33897d866219275ccab0c6bb25b972d5e140413",
+                                            "width": 320,
+                                            "height": 200
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/tFHvtDqjNK1-sbGAfCHLCGlKRUDwOVFyfNQli-e3-Sk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=387e8117b5289a53e6027c5123b18a4673fe8f13",
+                                            "width": 640,
+                                            "height": 400
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/tFHvtDqjNK1-sbGAfCHLCGlKRUDwOVFyfNQli-e3-Sk.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=9fe0eac532db7d024a91ef65c7715628d52fa52a",
+                                            "width": 960,
+                                            "height": 600
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/tFHvtDqjNK1-sbGAfCHLCGlKRUDwOVFyfNQli-e3-Sk.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=383f7e977bc795d803e01a4371d49cfd3d5cd861",
+                                            "width": 1080,
+                                            "height": 675
+                                        }
+                                    ],
+                                    "variants": {},
+                                    "id": "4TQMWGJjWhd3tKwBXEH-UDLu06jstpteHMYMPtskC5w"
+                                }
+                            ],
+                            "enabled": false
+                        },
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "can_gild": false,
+                        "spoiler": false,
+                        "locked": false,
+                        "author_flair_text": "Oldfag",
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3bg30",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "70zmfb",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "DrydonTheAlt",
+                        "discussion_type": null,
+                        "num_comments": 0,
+                        "send_replies": true,
+                        "media": null,
+                        "contest_mode": false,
+                        "author_patreon_flair": false,
+                        "author_flair_text_color": "dark",
+                        "permalink": "/r/Freebuild/comments/70zmfb/indefreddit_day_opening_titles/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "https://brorlandi.github.io/StarWarsIntroCreator/#!/AKuMMb2c-TmmJzrsnRMh",
+                        "subreddit_subscribers": 219,
+                        "created_utc": 1505784287.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [],
+            "before": null
+        }
+    }
+]

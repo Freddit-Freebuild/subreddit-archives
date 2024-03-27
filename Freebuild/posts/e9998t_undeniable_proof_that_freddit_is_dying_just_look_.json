@@ -1,0 +1,267 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Freebuild",
+                        "selftext": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "UNDENIABLE proof that FREDDIT is DYING. Just LOOK and OPEN your EYES - not a SINGLE MESSAGE sent this day. Not ONE! The PROOF couldn't be more OBVIOUS. WAKE UP, FREDDIT! Your TIME is OVER.",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Freebuild",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": "",
+                        "downs": 0,
+                        "thumbnail_height": 140,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "name": "t3_e9998t",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 1.0,
+                        "author_flair_background_color": "",
+                        "subreddit_type": "public",
+                        "ups": 2,
+                        "total_awards_received": 0,
+                        "media_embed": {},
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": null,
+                        "is_original_content": false,
+                        "secure_media": null,
+                        "is_reddit_media_domain": true,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {},
+                        "link_flair_text": "STAFF APPLICATION",
+                        "can_mod_post": false,
+                        "score": 2,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "thumbnail": "spoiler",
+                        "edited": false,
+                        "author_flair_css_class": null,
+                        "gildings": {},
+                        "post_hint": "image",
+                        "content_categories": null,
+                        "is_self": false,
+                        "mod_note": null,
+                        "created": 1576081642.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "domain": "i.redd.it",
+                        "allow_live_comments": false,
+                        "selftext_html": null,
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "url_overridden_by_dest": "https://i.redd.it/8t2pjiuc61441.png",
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": false,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "preview": {
+                            "images": [
+                                {
+                                    "source": {
+                                        "url": "https://preview.redd.it/8t2pjiuc61441.png?auto=webp&amp;s=b5de5f0cb99d10ec595f3bf39534e29716a0759f",
+                                        "width": 422,
+                                        "height": 742
+                                    },
+                                    "resolutions": [
+                                        {
+                                            "url": "https://preview.redd.it/8t2pjiuc61441.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=f58886c3f0d4d20ae6fd990d2b8344ad2c1f4321",
+                                            "width": 108,
+                                            "height": 189
+                                        },
+                                        {
+                                            "url": "https://preview.redd.it/8t2pjiuc61441.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c9a5d67d8dec8d3726db88b3540792459d066857",
+                                            "width": 216,
+                                            "height": 379
+                                        },
+                                        {
+                                            "url": "https://preview.redd.it/8t2pjiuc61441.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ed97d079e1953bd1beb18439ccb8fcee226f48c8",
+                                            "width": 320,
+                                            "height": 562
+                                        }
+                                    ],
+                                    "variants": {
+                                        "obfuscated": {
+                                            "source": {
+                                                "url": "https://preview.redd.it/8t2pjiuc61441.png?blur=40&amp;format=pjpg&amp;auto=webp&amp;s=274a6399352e72fb9d06c39e16d4ed6b311b5aa8",
+                                                "width": 422,
+                                                "height": 742
+                                            },
+                                            "resolutions": [
+                                                {
+                                                    "url": "https://preview.redd.it/8t2pjiuc61441.png?width=108&amp;crop=smart&amp;blur=10&amp;format=pjpg&amp;auto=webp&amp;s=381d2962310451b8f28bee26854f7c280059fb56",
+                                                    "width": 108,
+                                                    "height": 189
+                                                },
+                                                {
+                                                    "url": "https://preview.redd.it/8t2pjiuc61441.png?width=216&amp;crop=smart&amp;blur=21&amp;format=pjpg&amp;auto=webp&amp;s=867d240a2b5a76f3eddb56167c1e6bd9db5dfad2",
+                                                    "width": 216,
+                                                    "height": 379
+                                                },
+                                                {
+                                                    "url": "https://preview.redd.it/8t2pjiuc61441.png?width=320&amp;crop=smart&amp;blur=32&amp;format=pjpg&amp;auto=webp&amp;s=2f6cee95916f11890f253f92d928c133eaf87553",
+                                                    "width": 320,
+                                                    "height": 562
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "id": "5xG7nKS0cW3mHV8IKLWF5_Oyj3Mkupegpy94ckLC6-U"
+                                }
+                            ],
+                            "enabled": true
+                        },
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "link_flair_template_id": "c50d5ac2-10c2-11e6-baf8-0eb66bc8b02f",
+                        "can_gild": false,
+                        "spoiler": true,
+                        "locked": false,
+                        "author_flair_text": null,
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3bg30",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "e9998t",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "[deleted]",
+                        "discussion_type": null,
+                        "num_comments": 1,
+                        "send_replies": true,
+                        "media": null,
+                        "contest_mode": false,
+                        "author_flair_text_color": "dark",
+                        "permalink": "/r/Freebuild/comments/e9998t/undeniable_proof_that_freddit_is_dying_just_look/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "https://i.redd.it/8t2pjiuc61441.png",
+                        "subreddit_subscribers": 219,
+                        "created_utc": 1576081642.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t1",
+                    "data": {
+                        "subreddit_id": "t5_3bg30",
+                        "approved_at_utc": null,
+                        "author_is_blocked": false,
+                        "comment_type": null,
+                        "awarders": [],
+                        "mod_reason_by": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "total_awards_received": 0,
+                        "subreddit": "Freebuild",
+                        "author_flair_template_id": null,
+                        "likes": null,
+                        "replies": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "id": "fb1rqbc",
+                        "banned_at_utc": null,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "archived": false,
+                        "collapsed_reason_code": null,
+                        "no_follow": true,
+                        "author": "DrydonTheAlt",
+                        "can_mod_post": false,
+                        "created_utc": 1576440263.0,
+                        "send_replies": true,
+                        "parent_id": "t3_e9998t",
+                        "score": 2,
+                        "author_fullname": "t2_y6opy",
+                        "approved_by": null,
+                        "mod_note": null,
+                        "all_awardings": [],
+                        "collapsed": false,
+                        "body": "YTA.",
+                        "edited": false,
+                        "top_awarded_type": null,
+                        "author_flair_css_class": "",
+                        "name": "t1_fb1rqbc",
+                        "is_submitter": false,
+                        "downs": 0,
+                        "author_flair_richtext": [],
+                        "author_patreon_flair": false,
+                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;YTA.&lt;/p&gt;\n&lt;/div&gt;",
+                        "removal_reason": null,
+                        "collapsed_reason": null,
+                        "distinguished": null,
+                        "associated_award": null,
+                        "stickied": false,
+                        "author_premium": false,
+                        "can_gild": false,
+                        "gildings": {},
+                        "unrepliable_reason": null,
+                        "author_flair_text_color": "dark",
+                        "score_hidden": false,
+                        "permalink": "/r/Freebuild/comments/e9998t/undeniable_proof_that_freddit_is_dying_just_look/fb1rqbc/",
+                        "subreddit_type": "public",
+                        "locked": false,
+                        "report_reasons": null,
+                        "created": 1576440263.0,
+                        "author_flair_text": "Oldfag",
+                        "treatment_tags": [],
+                        "link_id": "t3_e9998t",
+                        "subreddit_name_prefixed": "r/Freebuild",
+                        "controversiality": 0,
+                        "depth": 0,
+                        "author_flair_background_color": "",
+                        "collapsed_because_crowd_control": null,
+                        "mod_reports": [],
+                        "num_reports": null,
+                        "ups": 2
+                    }
+                }
+            ],
+            "before": null
+        }
+    }
+]
