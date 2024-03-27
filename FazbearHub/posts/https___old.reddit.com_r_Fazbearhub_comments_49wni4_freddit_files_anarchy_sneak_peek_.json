@@ -1,0 +1,230 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Fazbearhub",
+                        "selftext": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "Freddit Files \"Anarchy\" Sneak Peek!",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Fazbearhub",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": null,
+                        "downs": 0,
+                        "thumbnail_height": 87,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "name": "t3_49wni4",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 1.0,
+                        "author_flair_background_color": null,
+                        "subreddit_type": "public",
+                        "ups": 3,
+                        "total_awards_received": 0,
+                        "media_embed": {
+                            "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2F9QZtJ%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D900&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2F9QZtJ&amp;image=https%3A%2F%2Fi.imgur.com%2FFYwhZ27.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"415\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                            "width": 600,
+                            "scrolling": false,
+                            "height": 415
+                        },
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": null,
+                        "is_original_content": false,
+                        "author_fullname": "t2_p58k1",
+                        "secure_media": {
+                            "oembed": {
+                                "provider_url": "http://imgur.com",
+                                "description": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
+                                "title": "Freddit Files Anarchy Sneak Peek!",
+                                "url": "https://imgur.com/a/9QZtJ",
+                                "thumbnail_width": 600,
+                                "height": 415,
+                                "width": 600,
+                                "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2F9QZtJ%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D900&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2F9QZtJ&amp;image=https%3A%2F%2Fi.imgur.com%2FFYwhZ27.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"415\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                                "version": "1.0",
+                                "provider_name": "Imgur",
+                                "thumbnail_url": "https://i.imgur.com/FYwhZ27.jpg?fb",
+                                "type": "rich",
+                                "thumbnail_height": 315
+                            },
+                            "type": "imgur.com"
+                        },
+                        "is_reddit_media_domain": false,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {
+                            "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2F9QZtJ%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D900&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2F9QZtJ&amp;image=https%3A%2F%2Fi.imgur.com%2FFYwhZ27.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"415\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                            "width": 600,
+                            "scrolling": false,
+                            "media_domain_url": "https://www.redditmedia.com/mediaembed/49wni4",
+                            "height": 415
+                        },
+                        "link_flair_text": null,
+                        "can_mod_post": false,
+                        "score": 3,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "author_premium": false,
+                        "thumbnail": "https://b.thumbs.redditmedia.com/PQ4fov1FQPZu4Ht88ZZH7xojcmqvcblzUoEx6dbfepk.jpg",
+                        "edited": false,
+                        "author_flair_css_class": null,
+                        "author_flair_richtext": [],
+                        "gildings": {},
+                        "post_hint": "link",
+                        "content_categories": null,
+                        "is_self": false,
+                        "mod_note": null,
+                        "created": 1457660875.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "domain": "imgur.com",
+                        "allow_live_comments": false,
+                        "selftext_html": null,
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "url_overridden_by_dest": "http://imgur.com/a/9QZtJ",
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": false,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "preview": {
+                            "images": [
+                                {
+                                    "source": {
+                                        "url": "https://external-preview.redd.it/pVNtFBCebrpVHNGRlxsA74GSQ1lxuDTkJosqVVkDdGw.jpg?auto=webp&amp;s=8f2daaf66793dfc9b24ffcb34c60c0b034b3eb64",
+                                        "width": 2560,
+                                        "height": 1600
+                                    },
+                                    "resolutions": [
+                                        {
+                                            "url": "https://external-preview.redd.it/pVNtFBCebrpVHNGRlxsA74GSQ1lxuDTkJosqVVkDdGw.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=9c3ddfddfcd94a1a5de9ed9d5f658c52ef2c394d",
+                                            "width": 108,
+                                            "height": 67
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/pVNtFBCebrpVHNGRlxsA74GSQ1lxuDTkJosqVVkDdGw.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=6f9c0b944e609b1ee8c9b366717e5386e3dd1bcb",
+                                            "width": 216,
+                                            "height": 135
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/pVNtFBCebrpVHNGRlxsA74GSQ1lxuDTkJosqVVkDdGw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=410b585632db9744a885ff7ae4b3f716fa141e87",
+                                            "width": 320,
+                                            "height": 200
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/pVNtFBCebrpVHNGRlxsA74GSQ1lxuDTkJosqVVkDdGw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a1de4c762853a034b2522aaf911f234e3deefc0",
+                                            "width": 640,
+                                            "height": 400
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/pVNtFBCebrpVHNGRlxsA74GSQ1lxuDTkJosqVVkDdGw.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=4039084e2f6a7a88f9c643232c8b5a910a3d4142",
+                                            "width": 960,
+                                            "height": 600
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/pVNtFBCebrpVHNGRlxsA74GSQ1lxuDTkJosqVVkDdGw.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=efa124ba848b017369a276cfaa09fec26ebd17de",
+                                            "width": 1080,
+                                            "height": 675
+                                        }
+                                    ],
+                                    "variants": {},
+                                    "id": "-ky7MukcWRs790vNv2kdaj1J5Ci9Hvz7MvtZyZdL-qs"
+                                }
+                            ],
+                            "enabled": false
+                        },
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "can_gild": false,
+                        "spoiler": false,
+                        "locked": false,
+                        "author_flair_text": null,
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3a1zs",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "49wni4",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "Drydon_",
+                        "discussion_type": null,
+                        "num_comments": 0,
+                        "send_replies": true,
+                        "media": {
+                            "oembed": {
+                                "provider_url": "http://imgur.com",
+                                "description": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
+                                "title": "Freddit Files Anarchy Sneak Peek!",
+                                "url": "https://imgur.com/a/9QZtJ",
+                                "thumbnail_width": 600,
+                                "height": 415,
+                                "width": 600,
+                                "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2F9QZtJ%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D900&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2F9QZtJ&amp;image=https%3A%2F%2Fi.imgur.com%2FFYwhZ27.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"415\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                                "version": "1.0",
+                                "provider_name": "Imgur",
+                                "thumbnail_url": "https://i.imgur.com/FYwhZ27.jpg?fb",
+                                "type": "rich",
+                                "thumbnail_height": 315
+                            },
+                            "type": "imgur.com"
+                        },
+                        "contest_mode": false,
+                        "author_patreon_flair": false,
+                        "author_flair_text_color": null,
+                        "permalink": "/r/Fazbearhub/comments/49wni4/freddit_files_anarchy_sneak_peek/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "http://imgur.com/a/9QZtJ",
+                        "subreddit_subscribers": 43,
+                        "created_utc": 1457660875.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [],
+            "before": null
+        }
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Fazbearhub",
+                        "selftext": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "Straw Poll about Freddit Files",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Fazbearhub",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": null,
+                        "downs": 0,
+                        "thumbnail_height": 140,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "name": "t3_3yad7i",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 0.76,
+                        "author_flair_background_color": null,
+                        "subreddit_type": "public",
+                        "ups": 2,
+                        "total_awards_received": 0,
+                        "media_embed": {},
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": null,
+                        "is_original_content": false,
+                        "author_fullname": "t2_p58k1",
+                        "secure_media": null,
+                        "is_reddit_media_domain": false,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {},
+                        "link_flair_text": null,
+                        "can_mod_post": false,
+                        "score": 2,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "author_premium": false,
+                        "thumbnail": "https://b.thumbs.redditmedia.com/hdnzF8Bc7YrSeP4qR3gogQ48qc2DeAc9tZBoQ6JN4yc.jpg",
+                        "edited": false,
+                        "author_flair_css_class": null,
+                        "author_flair_richtext": [],
+                        "gildings": {},
+                        "post_hint": "link",
+                        "content_categories": null,
+                        "is_self": false,
+                        "mod_note": null,
+                        "created": 1451139688.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "domain": "strawpoll.me",
+                        "allow_live_comments": false,
+                        "selftext_html": null,
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "url_overridden_by_dest": "http://strawpoll.me/6366527",
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": false,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "preview": {
+                            "images": [
+                                {
+                                    "source": {
+                                        "url": "https://external-preview.redd.it/AWh2Qw3Aq6Nn5-tJN3P7w7AGghcFUMW2XHeQLLN2X_I.jpg?auto=webp&amp;s=05b7944a5a993c788b252020cb2e63a115eff46e",
+                                        "width": 1200,
+                                        "height": 1200
+                                    },
+                                    "resolutions": [
+                                        {
+                                            "url": "https://external-preview.redd.it/AWh2Qw3Aq6Nn5-tJN3P7w7AGghcFUMW2XHeQLLN2X_I.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=eef5ebc69a65b1a365559cf0a99e01a3d5c06159",
+                                            "width": 108,
+                                            "height": 108
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/AWh2Qw3Aq6Nn5-tJN3P7w7AGghcFUMW2XHeQLLN2X_I.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1bb85d201bc0a07e17a33b3898617bb240343133",
+                                            "width": 216,
+                                            "height": 216
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/AWh2Qw3Aq6Nn5-tJN3P7w7AGghcFUMW2XHeQLLN2X_I.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e5e257510cd72bd9d5985630a2bc9b5319671d53",
+                                            "width": 320,
+                                            "height": 320
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/AWh2Qw3Aq6Nn5-tJN3P7w7AGghcFUMW2XHeQLLN2X_I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf1830b8b146c8842b329ccd805c823f53669bb0",
+                                            "width": 640,
+                                            "height": 640
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/AWh2Qw3Aq6Nn5-tJN3P7w7AGghcFUMW2XHeQLLN2X_I.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=04fe1c6be07e978337f20a7e5617f7c23ec8c183",
+                                            "width": 960,
+                                            "height": 960
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/AWh2Qw3Aq6Nn5-tJN3P7w7AGghcFUMW2XHeQLLN2X_I.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=dbf14af549b5c07081979987ccbf223fa357165d",
+                                            "width": 1080,
+                                            "height": 1080
+                                        }
+                                    ],
+                                    "variants": {},
+                                    "id": "9j2OOgCN134fmG8r44xqnptrFxpHNcozQbUx6r6Byew"
+                                }
+                            ],
+                            "enabled": false
+                        },
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "can_gild": false,
+                        "spoiler": false,
+                        "locked": false,
+                        "author_flair_text": null,
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3a1zs",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "3yad7i",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "Drydon_",
+                        "discussion_type": null,
+                        "num_comments": 0,
+                        "send_replies": true,
+                        "media": null,
+                        "contest_mode": false,
+                        "author_patreon_flair": false,
+                        "author_flair_text_color": null,
+                        "permalink": "/r/Fazbearhub/comments/3yad7i/straw_poll_about_freddit_files/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "http://strawpoll.me/6366527",
+                        "subreddit_subscribers": 43,
+                        "created_utc": 1451139688.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [],
+            "before": null
+        }
+    }
+]

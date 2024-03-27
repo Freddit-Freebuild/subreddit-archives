@@ -1,0 +1,220 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Fazbearhub",
+                        "selftext": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "The Fallout of Freddit Season 2 [CHAPTER IV]",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Fazbearhub",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": null,
+                        "downs": 0,
+                        "thumbnail_height": 78,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "name": "t3_4e78ie",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 0.88,
+                        "author_flair_background_color": null,
+                        "subreddit_type": "public",
+                        "ups": 6,
+                        "total_awards_received": 0,
+                        "media_embed": {
+                            "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2Fo9QMv%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D854&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2Fo9QMv&amp;image=https%3A%2F%2Fi.imgur.com%2FamH6gpv.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"379\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                            "width": 600,
+                            "scrolling": false,
+                            "height": 379
+                        },
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": null,
+                        "is_original_content": false,
+                        "author_fullname": "t2_hsaxm",
+                        "secure_media": {
+                            "oembed": {
+                                "provider_url": "http://imgur.com",
+                                "description": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
+                                "title": "Imgur",
+                                "url": "https://imgur.com/a/o9QMv",
+                                "thumbnail_width": 600,
+                                "height": 379,
+                                "width": 600,
+                                "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2Fo9QMv%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D854&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2Fo9QMv&amp;image=https%3A%2F%2Fi.imgur.com%2FamH6gpv.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"379\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                                "version": "1.0",
+                                "provider_name": "Imgur",
+                                "thumbnail_url": "https://i.imgur.com/amH6gpv.jpg?fb",
+                                "type": "rich",
+                                "thumbnail_height": 315
+                            },
+                            "type": "imgur.com"
+                        },
+                        "is_reddit_media_domain": false,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {
+                            "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2Fo9QMv%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D854&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2Fo9QMv&amp;image=https%3A%2F%2Fi.imgur.com%2FamH6gpv.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"379\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                            "width": 600,
+                            "scrolling": false,
+                            "media_domain_url": "https://www.redditmedia.com/mediaembed/4e78ie",
+                            "height": 379
+                        },
+                        "link_flair_text": null,
+                        "can_mod_post": false,
+                        "score": 6,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "author_premium": false,
+                        "thumbnail": "https://b.thumbs.redditmedia.com/lD5uHQ32S18ki6B-pFQ1A2G4LEK_J4gtPPfZN55uJrY.jpg",
+                        "edited": false,
+                        "author_flair_css_class": null,
+                        "author_flair_richtext": [],
+                        "gildings": {},
+                        "post_hint": "link",
+                        "content_categories": null,
+                        "is_self": false,
+                        "mod_note": null,
+                        "created": 1460317234.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "domain": "imgur.com",
+                        "allow_live_comments": false,
+                        "selftext_html": null,
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "url_overridden_by_dest": "http://imgur.com/a/o9QMv",
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": false,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "preview": {
+                            "images": [
+                                {
+                                    "source": {
+                                        "url": "https://external-preview.redd.it/VGwh3py0jUlZu2ibK_GKYr8lawL_yamU77BLl5euDp8.jpg?auto=webp&amp;s=9d524f3d14cd3f8a67d73f0c9ff8b7f15f0c4fb1",
+                                        "width": 854,
+                                        "height": 480
+                                    },
+                                    "resolutions": [
+                                        {
+                                            "url": "https://external-preview.redd.it/VGwh3py0jUlZu2ibK_GKYr8lawL_yamU77BLl5euDp8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b73bb9212284cbb573f232e402bd7d2d77a896cf",
+                                            "width": 108,
+                                            "height": 60
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/VGwh3py0jUlZu2ibK_GKYr8lawL_yamU77BLl5euDp8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=93a63d94a040612282ce7c3561af6d40efd5659a",
+                                            "width": 216,
+                                            "height": 121
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/VGwh3py0jUlZu2ibK_GKYr8lawL_yamU77BLl5euDp8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5604db84cd183017eb23033ee00f317c5e30cc82",
+                                            "width": 320,
+                                            "height": 179
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/VGwh3py0jUlZu2ibK_GKYr8lawL_yamU77BLl5euDp8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2f3706187ff50ce9b96d5766a52db43f107a377",
+                                            "width": 640,
+                                            "height": 359
+                                        }
+                                    ],
+                                    "variants": {},
+                                    "id": "wAqMjvadO25qTQhIy7lJB_1N-81ZH4rqaTNKqYPuVp8"
+                                }
+                            ],
+                            "enabled": false
+                        },
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "can_gild": false,
+                        "spoiler": false,
+                        "locked": false,
+                        "author_flair_text": null,
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3a1zs",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "4e78ie",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "Zoocanadanda",
+                        "discussion_type": null,
+                        "num_comments": 0,
+                        "send_replies": true,
+                        "media": {
+                            "oembed": {
+                                "provider_url": "http://imgur.com",
+                                "description": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
+                                "title": "Imgur",
+                                "url": "https://imgur.com/a/o9QMv",
+                                "thumbnail_width": 600,
+                                "height": 379,
+                                "width": 600,
+                                "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fimgur.com%2Fa%2Fo9QMv%2Fembed%3Fpub%3Dtrue%26ref%3Dhttps%253A%252F%252Fembed.ly%26w%3D854&amp;display_name=Imgur&amp;url=https%3A%2F%2Fimgur.com%2Fa%2Fo9QMv&amp;image=https%3A%2F%2Fi.imgur.com%2FamH6gpv.jpg%3Ffb&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=imgur\" width=\"600\" height=\"379\" scrolling=\"no\" title=\"Imgur embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                                "version": "1.0",
+                                "provider_name": "Imgur",
+                                "thumbnail_url": "https://i.imgur.com/amH6gpv.jpg?fb",
+                                "type": "rich",
+                                "thumbnail_height": 315
+                            },
+                            "type": "imgur.com"
+                        },
+                        "contest_mode": false,
+                        "author_patreon_flair": false,
+                        "author_flair_text_color": null,
+                        "permalink": "/r/Fazbearhub/comments/4e78ie/the_fallout_of_freddit_season_2_chapter_iv/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "http://imgur.com/a/o9QMv",
+                        "subreddit_subscribers": 43,
+                        "created_utc": 1460317234.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [],
+            "before": null
+        }
+    }
+]

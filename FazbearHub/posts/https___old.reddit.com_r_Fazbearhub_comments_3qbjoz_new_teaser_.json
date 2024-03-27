@@ -1,0 +1,170 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": 1,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "approved_at_utc": null,
+                        "subreddit": "Fazbearhub",
+                        "selftext": "",
+                        "user_reports": [],
+                        "saved": false,
+                        "mod_reason_title": null,
+                        "gilded": 0,
+                        "clicked": false,
+                        "title": "NEW TEASER",
+                        "link_flair_richtext": [],
+                        "subreddit_name_prefixed": "r/Fazbearhub",
+                        "hidden": false,
+                        "pwls": null,
+                        "link_flair_css_class": null,
+                        "downs": 0,
+                        "thumbnail_height": 73,
+                        "top_awarded_type": null,
+                        "parent_whitelist_status": null,
+                        "hide_score": false,
+                        "name": "t3_3qbjoz",
+                        "quarantine": false,
+                        "link_flair_text_color": "dark",
+                        "upvote_ratio": 0.5,
+                        "author_flair_background_color": null,
+                        "subreddit_type": "public",
+                        "ups": 0,
+                        "total_awards_received": 0,
+                        "media_embed": {},
+                        "thumbnail_width": 140,
+                        "author_flair_template_id": null,
+                        "is_original_content": false,
+                        "author_fullname": "t2_hms4d",
+                        "secure_media": null,
+                        "is_reddit_media_domain": false,
+                        "is_meta": false,
+                        "category": null,
+                        "secure_media_embed": {},
+                        "link_flair_text": null,
+                        "can_mod_post": false,
+                        "score": 0,
+                        "approved_by": null,
+                        "is_created_from_ads_ui": false,
+                        "author_premium": false,
+                        "thumbnail": "https://b.thumbs.redditmedia.com/bSAjBG7IkcHPjf7L24I7rkMWe68ttggdTbLhLd6kCLc.jpg",
+                        "edited": false,
+                        "author_flair_css_class": null,
+                        "author_flair_richtext": [],
+                        "gildings": {},
+                        "post_hint": "link",
+                        "content_categories": null,
+                        "is_self": false,
+                        "mod_note": null,
+                        "created": 1445888216.0,
+                        "link_flair_type": "text",
+                        "wls": null,
+                        "removed_by_category": null,
+                        "banned_by": null,
+                        "author_flair_type": "text",
+                        "domain": "imgur.com",
+                        "allow_live_comments": false,
+                        "selftext_html": null,
+                        "likes": null,
+                        "suggested_sort": null,
+                        "banned_at_utc": null,
+                        "url_overridden_by_dest": "http://imgur.com/km3jlJu",
+                        "view_count": null,
+                        "archived": false,
+                        "no_follow": true,
+                        "is_crosspostable": false,
+                        "pinned": false,
+                        "over_18": false,
+                        "preview": {
+                            "images": [
+                                {
+                                    "source": {
+                                        "url": "https://external-preview.redd.it/BAuNGEalZvMc-BiJNiimXgyMw23qXavsd597a3G2ybQ.jpg?auto=webp&amp;s=d1f072ab6f0223b9697f14263121163e9310d158",
+                                        "width": 600,
+                                        "height": 315
+                                    },
+                                    "resolutions": [
+                                        {
+                                            "url": "https://external-preview.redd.it/BAuNGEalZvMc-BiJNiimXgyMw23qXavsd597a3G2ybQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ba9a8919d259841b3e18bd9889d01ef38c89f2ef",
+                                            "width": 108,
+                                            "height": 56
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/BAuNGEalZvMc-BiJNiimXgyMw23qXavsd597a3G2ybQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2b69df9c6d991a7b2281f2895175af6981805823",
+                                            "width": 216,
+                                            "height": 113
+                                        },
+                                        {
+                                            "url": "https://external-preview.redd.it/BAuNGEalZvMc-BiJNiimXgyMw23qXavsd597a3G2ybQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c5e045638c1f73fbadeb0a16725b907094f0f7a7",
+                                            "width": 320,
+                                            "height": 168
+                                        }
+                                    ],
+                                    "variants": {},
+                                    "id": "z_EFJf1Oz_yJbX3nskMy48S2fMZSVZsvtiafh4hdrvU"
+                                }
+                            ],
+                            "enabled": false
+                        },
+                        "all_awardings": [],
+                        "awarders": [],
+                        "media_only": false,
+                        "can_gild": false,
+                        "spoiler": false,
+                        "locked": false,
+                        "author_flair_text": null,
+                        "treatment_tags": [],
+                        "visited": false,
+                        "removed_by": null,
+                        "num_reports": null,
+                        "distinguished": null,
+                        "subreddit_id": "t5_3a1zs",
+                        "author_is_blocked": false,
+                        "mod_reason_by": null,
+                        "removal_reason": null,
+                        "link_flair_background_color": "",
+                        "id": "3qbjoz",
+                        "is_robot_indexable": true,
+                        "num_duplicates": 0,
+                        "report_reasons": null,
+                        "author": "svensonic1",
+                        "discussion_type": null,
+                        "num_comments": 0,
+                        "send_replies": true,
+                        "media": null,
+                        "contest_mode": false,
+                        "author_patreon_flair": false,
+                        "author_flair_text_color": null,
+                        "permalink": "/r/Fazbearhub/comments/3qbjoz/new_teaser/",
+                        "whitelist_status": null,
+                        "stickied": false,
+                        "url": "http://imgur.com/km3jlJu",
+                        "subreddit_subscribers": 43,
+                        "created_utc": 1445888216.0,
+                        "num_crossposts": 0,
+                        "mod_reports": [],
+                        "is_video": false
+                    }
+                }
+            ],
+            "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+            "after": null,
+            "dist": null,
+            "modhash": "",
+            "geo_filter": "",
+            "children": [],
+            "before": null
+        }
+    }
+]
