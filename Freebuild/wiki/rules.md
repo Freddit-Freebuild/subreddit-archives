@@ -86,4 +86,4 @@ If something is mentioned in our Discord's #rules channel but not here, consider
 ___
 
 **Useful links:**  
-[Ranks & Permissions info](https://www.reddit.com/r/freebuild/wiki/permsranks)
+[Ranks & Permissions info](./permsranks.md)

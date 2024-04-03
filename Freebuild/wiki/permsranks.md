@@ -114,7 +114,7 @@
 
 ------------------------------------
 
-#How do I climb up the rank ladder?
+# How do I climb up the rank ladder?
 
 Build stuff and have a staff member look at it. If no staff member is online then post a request in #request-staff-help in our discord along with coordinates.  
 Promotions aren't guaranteed, it depends on the build's overall quality. 
