@@ -1,7 +1,7 @@
-#THE RULES
+# THE RULES
 *Last revision: 29th August 2018*
 
-##Community guidelines
+## Community guidelines
 
 **[1]** Don't be disrespectful towards anyone, and don't be an annoyance.    
 Please be aware of the damage you're doing - what you might find ok others might find it harmful. This includes mocking someone for something they're not okay with being made fun of for, and bringing people down due to old drama, for example.
@@ -43,7 +43,7 @@ It's annoying when staff members have to constantly reassign your roles. If staf
 
 ___
 
-##Minecraft-specific rules
+## Minecraft-specific rules
 
 **[1]** Do not edit terrain within another user's build without their consent.   
 Community builds (e.g. rpcity, the wasteland) function based upon how their governing bodies decide (of course under staff's supervision). If you build in one of the following locations, you consent to the respective leading group's right to move (NOT modify) your build:
@@ -66,7 +66,7 @@ You are free to request a schematic of your build from a staff member, or even a
 
 ___
 
-##Additional info
+## Additional info
 
 - Remember that the Discord & Community rules apply to the Minecraft server. Same vice versa (even though this makes 0 sense, but JUST in case).
 - You have the right to disobey staff/the rules, but staff has the right to punish you for this however deemed fitting.
