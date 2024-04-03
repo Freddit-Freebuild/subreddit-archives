@@ -1,4 +1,4 @@
-###The Fallout of Freddit  
+### The Fallout of Freddit  
 
 The Fallout of Freddit was a comic made by *Zoocanadanda*. Unlike **Freddit Files**, TFOF was heavily plot-based and it focused on the Fredditors dealing with a nuclear fallout. It ran from December 9th, 2015-?????? 2017.
 
@@ -24,6 +24,7 @@ The Fallout of Freddit was a comic made by *Zoocanadanda*. Unlike **Freddit File
 *As the count-down for the X-Nuke reaches zero, a startling update on the Machine worries the Fredditors, as Sven seems to start losing his mind.* 
 
 **Season 2**  
+
 [Chapter I - The Vaults](http://imgur.com/a/9rQHw)                            
 *With Freddit now a wasteland, the survivors are forced to settle in to vaults, but how long will they be safe?*             
 [Chapter II - Misfortunes](http://imgur.com/a/dh9Wa)              
@@ -46,6 +47,7 @@ The Fallout of Freddit was a comic made by *Zoocanadanda*. Unlike **Freddit File
 *A battle commences at the Gallows; Chris finds his Pirates fighting with the Fredditors.*                      
 
 **Season 3**  
+
 [Chapter I - Revelations](http://imgur.com/a/N50ut)                     
 *The Null God tells Dr. William the truth about his world.*                       
 Chapter II is what happens after Fallout Files, the crossover between TFOF and Freddit Files. Make sure to read that first!  
@@ -70,11 +72,12 @@ Chapter II is what happens after Fallout Files, the crossover between TFOF and F
 Chapter IX - The Last Day                              
 *The story of the Machine, Zoo, the Pirates, Pluff, the Fredditors, and the fallout of Freddit comes to an end as the series closes.*
 
-###Dry Grounds
+### Dry Grounds
 
 Dry Grounds is an official TFOF spinoff made by *SirPluff (/u/BloodFork)*.
 
 [Chapter I](http://imgur.com/a/gGirJ)  
 [Chapter II](http://imgur.com/a/IPtB1)  
 [Chapter III](http://imgur.com/a/eV20m)  
+
 Chapter IV (Coming soon)
