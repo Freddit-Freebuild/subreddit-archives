@@ -14,4 +14,4 @@ Dont forget to read the rules though by using /rules you should always especiall
 **Step #2 Done**  
 Actually that is all, you'll learn all about Freddit in your first few days of joining, dont be scared to ask for help and have fun.
 
-##[DON'T FORGET TO FOLLOW THE RULES](https://www.reddit.com/r/Freebuild/wiki/rules)
+## [DON'T FORGET TO FOLLOW THE RULES](https://www.reddit.com/r/Freebuild/wiki/rules)
