@@ -1,6 +1,8 @@
-##The Review Page
-#The Fallout of Freddit - Season 1                     
+## The Review Page
+# The Fallout of Freddit - Season 1    
+
 Alright. Let's do this. The Fallout of Freddit, Season 1. WARNING: Before you read, you should know that this is only my opinion, so please don't get TRIGGERED. Alright, here we go.
+
 **Plot**            
 The plot of this season is...Chris is going to bomb Freddit, which we all know he eventually will, considering the title of the comic, The Fallout of Freddit. In the mean time, the first half of the season had some nice lines, but the thing is, there's a lack of action scenes, which can make it seem slightly dull. I don't have time to type everything that happens, so here! Have a tl;dr of the first TFOF by Zoo!
 **PILOT**: The comic series begins with Zoo and Arab. Zoo tells Arab about the constant state of war Freddit is in, and he starts to reveal the cruel world they live in. The readers learn that the timeline of the comic separates from the normal timeline of Freddit when a terrorist attack nearly kills Chris. The real terrorrist was never found, but Sven and Dante were frequently tied up with the attack, so Chris assassinates Dante outside Orb's Diner. The Ownership War begins, as Chris and Sven fight for the throne of Freddit. The reader is also introduced to the Machine, an AI designed by Pluff and Zoo which could detect criminals and griefers before they attack.                

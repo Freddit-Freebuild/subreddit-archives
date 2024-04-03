@@ -1,7 +1,9 @@
 ###**Freddit Files**  
+
 Freddit Files is a comic made by **Drydon**. It's about fictional events that happen on the server. Stories range from being humor- to heavily plot-based.  
 
 **Season 1**  
+
 [S1E01 - Pilot](https://www.dropbox.com/sh/t7ikl15khj45duk/AAD3cC-pxwFGB7n6kTYJKy5Fa?dl=0)                                      
 *Introducing you to the world of Freddit Freebuild and its mishaps.*                      
 [S1E02 - Sky Trouble](http://imgur.com/a/5q6nm)                             
@@ -21,6 +23,7 @@ Freddit Files is a comic made by **Drydon**. It's about fictional events that ha
 [S1E09 - Anarchy (Season Finale)](http://imgur.com/a/BkFVP)  
 
 **Season 2**  
+
 [S2E00 - Prologue](http://imgur.com/a/D1Ceu)  
 [S2E01 - Enter the End (Part 1)](http://imgur.com/a/hv1ju)       
 [S2E01 - Enter the End (Part 2)](http://imgur.com/a/uc8OI)                                   
